@@ -1,0 +1,377 @@
+2026-05-01 21:59:23.919945 - MemCompression (PID 2964) -> possible bug
+2026-05-01 21:59:23.922852 - MsMpEng.exe (PID 4316) -> possible bug
+2026-05-01 21:59:23.923424 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 21:59:23.923742 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 21:59:23.924458 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 21:59:23.925028 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:23.925471 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:23.925866 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 21:59:23.926177 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 21:59:23.926567 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 21:59:23.928144 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 21:59:23.928548 - Code.exe (PID 13256) -> possible bug
+2026-05-01 21:59:23.928965 - explorer.exe (PID 14592) -> too many threads, possible bug
+2026-05-01 21:59:23.930425 - msedgewebview2.exe (PID 15712) -> too many threads, possible bug
+2026-05-01 21:59:29.504696 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 21:59:29.506845 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:29.507435 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 21:59:29.509444 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 21:59:29.510720 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:29.511955 - msedgewebview2.exe (PID 15712) -> too many threads
+2026-05-01 21:59:34.224569 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 21:59:34.227204 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:34.227643 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:34.227970 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 21:59:34.228439 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 21:59:34.228818 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 21:59:34.229308 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:34.229672 - msedgewebview2.exe (PID 15712) -> too many threads
+2026-05-01 21:59:39.349587 - MsMpEng.exe (PID 4316) -> possible bug
+2026-05-01 21:59:39.350158 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 21:59:39.351031 - python.exe (PID 9208) -> high CPU
+2026-05-01 21:59:39.351433 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:39.351751 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:39.352282 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 21:59:39.352743 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 21:59:39.353055 - Code.exe (PID 13256) -> possible bug
+2026-05-01 21:59:39.353450 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:39.353844 - msedgewebview2.exe (PID 15712) -> too many threads, possible bug
+2026-05-01 21:59:44.362573 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 21:59:44.363484 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 21:59:44.363866 - python.exe (PID 9208) -> high CPU
+2026-05-01 21:59:44.364230 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:44.364495 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:44.364898 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 21:59:44.365134 - python.exe (PID 12180) -> high CPU
+2026-05-01 21:59:44.365446 - Code.exe (PID 13256) -> possible bug
+2026-05-01 21:59:44.365870 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:44.366240 - msedgewebview2.exe (PID 15712) -> too many threads, possible bug
+2026-05-01 21:59:49.504170 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 21:59:49.505268 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 21:59:49.505715 - python.exe (PID 9208) -> high CPU
+2026-05-01 21:59:49.506129 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:49.506450 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:49.506736 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 21:59:49.507014 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 21:59:49.507454 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 21:59:49.507752 - python.exe (PID 12180) -> high CPU
+2026-05-01 21:59:49.508300 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:49.508705 - msedgewebview2.exe (PID 15712) -> too many threads
+2026-05-01 21:59:54.859785 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 21:59:54.861427 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 21:59:54.862423 - python.exe (PID 9208) -> high CPU
+2026-05-01 21:59:54.862943 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 21:59:54.863306 - Code.exe (PID 10844) -> possible bug
+2026-05-01 21:59:54.863821 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 21:59:54.864107 - python.exe (PID 12180) -> high CPU
+2026-05-01 21:59:54.864677 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 21:59:54.865053 - msedgewebview2.exe (PID 15712) -> too many threads, possible bug
+2026-05-01 23:12:38.065156 - MemCompression (PID 2964) -> possible bug
+2026-05-01 23:12:38.070357 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:12:38.070655 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:12:38.071099 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:12:38.072139 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:12:38.072367 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:12:38.072583 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:12:38.072865 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:12:38.073073 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:12:38.073427 - explorer.exe (PID 14592) -> too many threads, possible bug
+2026-05-01 23:12:38.075308 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:12:38.075575 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:12:38.075997 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:12:42.570063 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:12:42.582005 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:12:42.582899 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:12:42.608750 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:12:42.609559 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 23:12:42.610172 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:12:42.610715 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:12:47.172696 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:12:47.174310 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:12:47.174775 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:12:47.175171 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:12:47.175484 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:12:47.176460 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:12:47.176859 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:12:47.177267 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:12:51.542708 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:12:51.543609 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:12:51.544048 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:12:51.544371 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:12:51.544717 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:12:51.545388 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:12:51.545751 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:12:51.546277 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:12:56.000842 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:12:56.001666 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:12:56.002220 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:12:56.003653 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:12:56.004100 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 23:12:56.004449 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:12:56.004905 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:12:56.005282 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:12:56.005507 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:12:56.005860 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:13:00.398477 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:13:00.399703 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:13:00.400095 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:13:00.400541 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 23:13:00.400866 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:13:00.401321 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:13:00.402106 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:13:00.402507 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:13:00.403027 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:13:04.781455 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:13:04.782380 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:13:04.782903 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:13:04.783284 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:13:04.783633 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:13:04.783956 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:13:04.784365 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:13:04.784704 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:13:04.785122 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:21:43.920090 - MemCompression (PID 2964) -> possible bug
+2026-05-01 23:21:43.923049 - MsMpEng.exe (PID 4316) -> possible bug
+2026-05-01 23:21:43.923509 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:21:43.924138 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:21:43.924697 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:21:43.925215 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:21:43.925545 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:21:43.925916 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:21:43.926632 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:21:43.926989 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:21:43.927831 - explorer.exe (PID 14592) -> too many threads, possible bug
+2026-05-01 23:21:43.928301 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:21:43.928560 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:21:43.929063 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:21:48.712873 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:21:48.713768 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:21:48.714413 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:21:48.714757 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:21:48.715108 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:21:48.715534 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:21:48.715925 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:21:48.716408 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:21:53.374394 - MemCompression (PID 2964) -> possible bug
+2026-05-01 23:21:53.375199 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:21:53.375513 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:21:53.376392 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:21:53.377328 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:21:53.377754 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:21:53.378060 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:21:53.378467 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:21:53.378847 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:21:53.379257 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:21:53.380056 - python.exe (PID 15672) -> high CPU
+2026-05-01 23:21:53.381121 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:21:53.381472 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:21:57.886271 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:21:57.887233 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:21:57.887804 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:21:57.888226 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 23:21:57.888524 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:21:57.889492 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:21:57.890389 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:21:57.890924 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:02.728807 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:22:02.729553 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:22:02.730281 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:22:02.730671 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:22:02.731063 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:22:02.731390 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:22:02.731777 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:22:02.733095 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:22:02.733364 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:22:02.734183 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:07.241927 - MemCompression (PID 2964) -> too many threads
+2026-05-01 23:22:07.242712 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:22:07.243377 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:22:07.243914 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:22:07.244297 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:22:07.244590 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:22:07.245029 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:22:07.245356 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:22:07.246309 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:22:07.246947 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:22:07.247330 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:22:07.247885 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:11.726588 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:22:11.727385 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:22:11.727915 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:22:11.728238 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:22:11.728506 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:22:11.728973 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:22:11.729276 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:22:11.729695 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:22:11.730103 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:22:11.730339 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:22:11.731400 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:16.267308 - MsMpEng.exe (PID 4316) -> possible bug
+2026-05-01 23:22:16.267891 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:22:16.268538 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:22:16.269061 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:22:16.269434 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:22:16.269783 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:22:16.270203 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:22:16.270545 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:22:16.271007 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:22:16.271826 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:22:16.272443 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:22:16.272958 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:20.774262 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:22:20.775110 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:22:20.775716 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:22:20.776134 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:22:20.776447 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:22:20.776847 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:22:20.777226 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:22:20.777648 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:22:20.778033 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:22:20.778327 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:22:20.778792 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:22:44.238513 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:26:46.323950 - MemCompression (PID 2964) -> possible bug
+2026-05-01 23:26:46.337018 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:26:46.337370 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:26:46.337759 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:26:46.338063 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:26:46.338376 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:26:46.338620 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:26:46.338862 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:26:46.339074 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:26:46.339355 - explorer.exe (PID 14592) -> too many threads, possible bug
+2026-05-01 23:26:46.339599 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:26:46.339759 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:26:46.343279 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:26:50.866306 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:26:50.869122 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:26:50.869895 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:26:50.871019 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:26:50.871685 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:26:50.872190 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:26:50.872604 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:26:50.873152 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:26:50.873685 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:26:55.367523 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:26:55.368514 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:26:55.368904 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:26:55.369239 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:26:55.369619 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:26:55.370002 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:26:55.370432 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:26:55.370837 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:26:55.371273 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:00.085410 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:27:00.086319 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:00.086939 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:00.087276 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:00.087719 - msedgewebview2.exe (PID 12100) -> too many threads
+2026-05-01 23:27:00.088065 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:00.088578 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:00.089315 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:04.786480 - MemCompression (PID 2964) -> too many threads
+2026-05-01 23:27:04.787470 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:04.788055 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:04.788577 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:04.788859 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:04.789256 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:27:04.789571 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:04.789969 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:04.790373 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:04.790652 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:04.791053 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:10.127024 - MemCompression (PID 2964) -> too many threads
+2026-05-01 23:27:10.133461 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:10.133738 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:27:10.134166 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:10.134500 - python.exe (PID 9244) -> high CPU
+2026-05-01 23:27:10.143430 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:10.143888 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:10.144230 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:10.144768 - msedgewebview2.exe (PID 12100) -> too many threads, possible bug
+2026-05-01 23:27:10.145176 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:10.145711 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:10.146034 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:10.146354 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:10.146749 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:14.724485 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:14.725190 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:14.725733 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:14.726128 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:14.726487 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:14.726925 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:14.727400 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:14.727824 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:14.728316 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:19.183344 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:27:19.184359 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:19.184827 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:19.185244 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:19.185669 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:19.186049 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:19.186533 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:19.186899 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:19.187188 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:19.187701 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:23.672627 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:23.673366 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:23.673816 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:23.674150 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:23.674421 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:23.674716 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:23.674951 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:23.675481 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:23.675753 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:23.676133 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:28.175236 - MemCompression (PID 2964) -> possible bug
+2026-05-01 23:27:28.176026 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:28.176899 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:28.177230 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:28.177497 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:28.177966 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:28.178319 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:28.178715 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:28.179029 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:28.179410 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:32.639440 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:27:32.639974 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:27:32.640590 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:32.641163 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:32.641532 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:32.642105 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:32.642628 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:32.643007 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:32.643453 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:32.643878 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:32.645140 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:32.645750 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:37.112701 - GoogleDriveFS.exe (PID 5596) -> too many threads, possible bug
+2026-05-01 23:27:37.113233 - chrome.exe (PID 5752) -> possible bug
+2026-05-01 23:27:37.113823 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:37.114242 - python.exe (PID 9244) -> high CPU
+2026-05-01 23:27:37.114630 - msedgewebview2.exe (PID 10212) -> too many threads
+2026-05-01 23:27:37.114972 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:37.115371 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:37.115830 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:37.116215 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:37.116665 - explorer.exe (PID 14592) -> too many threads, possible bug
+2026-05-01 23:27:37.117126 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:37.117395 - Code.exe (PID 15724) -> possible bug
+2026-05-01 23:27:37.117893 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:41.800173 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:27:41.801167 - msedgewebview2.exe (PID 10212) -> too many threads, possible bug
+2026-05-01 23:27:41.801529 - Dell.CoreServices.Client.exe (PID 10864) -> possible bug
+2026-05-01 23:27:41.801871 - Dell.TechHub.Instrumentation.SubAgent.exe (PID 10920) -> possible bug
+2026-05-01 23:27:41.802187 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:41.802508 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:41.803003 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:41.803392 - msedgewebview2.exe (PID 15712) -> possible bug
+2026-05-01 23:27:41.803841 - Code.exe (PID 18428) -> possible bug
+2026-05-01 23:27:47.685539 - MemCompression (PID 2964) -> too many threads
+2026-05-01 23:27:47.686846 - GoogleDriveFS.exe (PID 5596) -> too many threads
+2026-05-01 23:27:47.687713 - ServiceShell.exe (PID 8556) -> possible bug
+2026-05-01 23:27:47.688463 - msedgewebview2.exe (PID 12100) -> possible bug
+2026-05-01 23:27:47.688785 - SupportAssistAgent.exe (PID 12772) -> possible bug
+2026-05-01 23:27:47.689131 - msedgewebview2.exe (PID 14240) -> too many threads, possible bug
+2026-05-01 23:27:47.689381 - explorer.exe (PID 14592) -> too many threads
+2026-05-01 23:27:47.689968 - Code.exe (PID 18428) -> possible bug
