@@ -12,3 +12,9 @@ SmartGuard is a Python-based process monitoring application that helps detect su
 - Allows users to search processes by name
 - Logs suspicious activity
 - Provides safe process termination with confirmation
+
+  ## Project Video Presentation
+
+Watch the video presentation of this project on YouTube:
+
+[SmartGuard Process Monitor - Video Presentation](https://youtu.be/l_b1KcfciMc)
